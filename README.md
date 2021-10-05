@@ -1,3 +1,5 @@
+![](completely-smashed.png)
+
 # Completely Smashed
 
 A data set of Scottish Whisky Distilleries
