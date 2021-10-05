@@ -27,5 +27,5 @@ The data set is a JSON array of distillery objects, which at a minimum should co
 
 ### GeoJson
 
-The data has also been compliled into standard GeoJson format. The map is rendered [directly on GitHub](https://github.com/mhamilt/completely-smashed/blob/main/completely-smashed.geojson)}
+The data has also been compliled into standard GeoJson format. The map is rendered [directly on GitHub](https://github.com/mhamilt/completely-smashed/blob/main/completely-smashed.geojson)
 
